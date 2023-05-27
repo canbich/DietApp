@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textTarih"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Tarih"
+        android:textStyle="bold"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textSabahYemek"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="Sabah Yemek"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textOgleYemek"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="Öğle Yemek"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textAksamYemek"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="Akşam Yemek"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textToplamKalori"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Toplam Kalori"
+        android:textSize="25sp" />
+
+</LinearLayout>

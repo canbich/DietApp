@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">fitnesssecond</string>
+    <string-array name="SabahFood">
+        <item>Hamburger</item>
+        <item>Pizza</item>
+        <item>Tavuklu Salata</item>
+        <item>Ceviz 1 Kase</item>
+        <item>Mantı</item>
+        <item>Sucuklu Yumurta</item>
+        <item>Kaşarlı Tost</item>
+        <item>Menemen</item>
+        <item>Tavuklu Pilav</item>
+        <item>Köfte</item>
+        <item>Ispanak Yemeği</item>
+        <item>Yulaf 1 Kase</item>
+    </string-array>
+
+</resources>

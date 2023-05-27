@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361608103334",
+    "project_id": "fitnesssecond-2aa69",
+    "storage_bucket": "fitnesssecond-2aa69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361608103334:android:23edd134ef0379aad67b67",
+        "android_client_info": {
+          "package_name": "com.example.fitnesssecond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361608103334-j2pisqvn2a76e6j0t738tm2feapv5lhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mZowZO2b-CH0uG9kWgkhTOVuOGt0piU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361608103334-j2pisqvn2a76e6j0t738tm2feapv5lhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
